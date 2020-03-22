@@ -1,0 +1,23 @@
+{
+  "name": "rollupLearn",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenTao0524/rollupLearn.git"
+  },
+  "keywords": [],
+  "author": "rentao <912683552@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenTao0524/rollupLearn/issues"
+  },
+  "homepage": "https://github.com/RenTao0524/rollupLearn#readme",
+  "devDependencies": {
+    "rollup": "^2.1.0"
+  }
+}
