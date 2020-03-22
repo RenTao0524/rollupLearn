@@ -2,6 +2,8 @@
 
 ### [文档地址](https://www.rollupjs.com/guide/tutorial/)
 
+### [大佬参考地址](https://www.cnblogs.com/tugenhua0707/p/8179686.html#_labe6)
+
 ### 第一个输出指令
 ```bash
 rollup src/main.js -f cjs
